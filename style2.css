@@ -1,0 +1,377 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 2;
+	--web-view-id: Web_1920___2;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-navigate-on-keypress: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920___2;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Web_1920___2_Class {
+	position: absolute;
+	transform: translateX(-50%);
+	left: 50%;
+	width: 1440px;
+	height: 900px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 2;
+	--web-view-id: Web_1920___2;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-navigate-on-keypress: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.Polygon_1 {
+	overflow: hidden;
+	position: absolute;
+	width: 1446px;
+	height: 433px;
+	left: -2px;
+	top: -210px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_1 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 1463.589px;
+	height: 25px;
+	left: -1.237px;
+	top: 112.41px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Digital_Curriculum_Vitae_Class {
+	position: absolute;
+	left: 475.356px;
+	top: 38.249px;
+	overflow: visible;
+	width: 383px;
+	white-space: nowrap;
+	line-height: 90px;
+	margin-top: -30px;
+	text-align: center;
+	font-family: Lao Sangam MN;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(62,62,62,1);
+	letter-spacing: 1.15px;
+}
+.Group_1_Class {
+	position: absolute;
+	width: 54.21px;
+	height: 67.762px;
+	left: 922.585px;
+	top: 10.014px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___1.html;
+	cursor: pointer;
+}
+.Line_2 {
+	overflow: visible;
+	position: absolute;
+	width: 5px;
+	height: 52.704px;
+	left: 0px;
+	top: 15.058px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_3 {
+	overflow: visible;
+	position: absolute;
+	width: 5px;
+	height: 67.762px;
+	left: 27.105px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_4 {
+	overflow: visible;
+	position: absolute;
+	width: 5px;
+	height: 52.704px;
+	left: 54.21px;
+	top: 15.058px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 520px;
+	height: 57px;
+	left: 403px;
+	top: 166px;
+}
+.Rachel_Glasgow_Class {
+	position: absolute;
+	left: -37px;
+	top: 185px;
+	overflow: visible;
+	width: 502px;
+	height: 61px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___1.html;
+	cursor: pointer;
+	line-height: 120px;
+	margin-top: -44px;
+	text-align: center;
+	font-family: Monarch;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(255,253,253,1);
+	letter-spacing: 1.15px;
+}
+.Education___Experience_Class {
+	position: absolute;
+	left: 381px;
+	top: 186px;
+	overflow: visible;
+	width: 562px;
+	height: 56px;
+	line-height: 120px;
+	margin-top: -44px;
+	text-align: center;
+	font-family: Monarch;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(255,253,253,1);
+	letter-spacing: 1.15px;
+}
+.Projects_Class {
+	position: absolute;
+	left: 887px;
+	top: 185px;
+	overflow: visible;
+	width: 304px;
+	height: 122px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___3.html;
+	cursor: pointer;
+	line-height: 120px;
+	margin-top: -44px;
+	text-align: center;
+	font-family: Monarch;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(255,253,253,1);
+	letter-spacing: 1.15px;
+}
+.Contact_Class {
+	position: absolute;
+	left: 1080px;
+	top: 185px;
+	overflow: visible;
+	width: 347px;
+	height: 57px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___4.html;
+	cursor: pointer;
+	line-height: 120px;
+	margin-top: -44px;
+	text-align: center;
+	font-family: Monarch;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(255,253,253,1);
+	letter-spacing: 1.15px;
+}
+.Rectangle_4 {
+	position: absolute;
+	overflow: visible;
+	width: 498px;
+	height: 541px;
+	left: 2px;
+	top: 348px;
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 474px;
+	height: 609px;
+	left: 26px;
+	top: 260px;
+}
+.Component_1___1_Class {
+	position: absolute;
+	width: 419.271px;
+	height: 603.733px;
+	left: 52.482px;
+	top: 283.112px;
+	overflow: visible;
+}
+.Formally_Rachel_Glasgow_attend_Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 420.271px;
+	height: 603.733px;
+	line-height: 30px;
+	margin-top: -6px;
+	text-align: center;
+	font-family: Lao Sangam MN;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.8px;
+}
+.Rectangle_9 {
+	position: absolute;
+	overflow: visible;
+	width: 911px;
+	height: 43px;
+	left: 528px;
+	top: 242px;
+}
+.Rectangle_10 {
+	position: absolute;
+	overflow: visible;
+	width: 911px;
+	height: 44px;
+	left: 528px;
+	top: 481px;
+}
+.Rectangle_16 {
+	position: absolute;
+	overflow: visible;
+	width: 911px;
+	height: 44px;
+	left: 527px;
+	top: 701px;
+}
+.Clinical_duties__performed_all_Class {
+	position: absolute;
+	left: 529.532px;
+	top: 291.106px;
+	overflow: visible;
+	width: 909.678px;
+	height: 232.757px;
+	line-height: 28px;
+	margin-top: -7px;
+	text-align: left;
+	font-family: Lao Sangam MN;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.8px;
+}
+.Organized_and_promoted_educati_Class {
+	position: absolute;
+	left: 529.532px;
+	top: 532.557px;
+	overflow: visible;
+	width: 908.678px;
+	height: 232.757px;
+	line-height: 28px;
+	margin-top: -7px;
+	text-align: left;
+	font-family: Lao Sangam MN;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.8px;
+}
+.ID2019__2020____Clinical_Assis_Class {
+	position: absolute;
+	left: 536.24px;
+	top: 262.112px;
+	overflow: visible;
+	width: 1450.76px;
+	height: 43.931px;
+	line-height: 30px;
+	margin-top: -8px;
+	text-align: left;
+	font-family: Lao Sangam MN;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.8px;
+}
+.ID2016__2020____Marketing_and__Class {
+	position: absolute;
+	left: 536.24px;
+	top: 502.479px;
+	overflow: visible;
+	width: 912.76px;
+	height: 43.931px;
+	line-height: 30px;
+	margin-top: -8px;
+	text-align: left;
+	font-family: Lao Sangam MN;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.8px;
+}
+.ID2015__2018____Event_Coordina_Class {
+	position: absolute;
+	left: 534.24px;
+	top: 721.847px;
+	overflow: visible;
+	width: 912.76px;
+	height: 43.931px;
+	line-height: 30px;
+	margin-top: -8px;
+	text-align: left;
+	font-family: Lao Sangam MN;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.8px;
+}
+.Ran_the_monthly_event_series_c_Class {
+	position: absolute;
+	left: 529.532px;
+	top: 753.09px;
+	overflow: visible;
+	width: 909.678px;
+	height: 232.757px;
+	line-height: 28px;
+	margin-top: -7px;
+	text-align: left;
+	font-family: Lao Sangam MN;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.8px;
+}

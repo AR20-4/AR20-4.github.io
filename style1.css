@@ -1,0 +1,249 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920___1;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-navigate-on-keypress: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920___1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Web_1920___1_Class {
+	position: absolute;
+	transform: translateX(-50%);
+	left: 50%;
+	width: 1440px;
+	height: 900px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920___1;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-navigate-on-keypress: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.Polygon_1 {
+	overflow: hidden;
+	position: absolute;
+	width: 1446px;
+	height: 433px;
+	left: -2px;
+	top: -210px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_1 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 1463.589px;
+	height: 25px;
+	left: -1.237px;
+	top: 112.41px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Digital_Curriculum_Vitae_Class {
+	position: absolute;
+	left: 475.356px;
+	top: 38.249px;
+	overflow: visible;
+	width: 383px;
+	white-space: nowrap;
+	line-height: 90px;
+	margin-top: -30px;
+	text-align: center;
+	font-family: Lao Sangam MN;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(62,62,62,1);
+	letter-spacing: 1.15px;
+}
+.Group_1_Class {
+	position: absolute;
+	width: 54.21px;
+	height: 67.762px;
+	left: 922.585px;
+	top: 10.014px;
+	overflow: visible;
+}
+.Line_2 {
+	overflow: visible;
+	position: absolute;
+	width: 5px;
+	height: 52.704px;
+	left: 0px;
+	top: 15.058px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_3 {
+	overflow: visible;
+	position: absolute;
+	width: 5px;
+	height: 67.762px;
+	left: 27.105px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_4 {
+	overflow: visible;
+	position: absolute;
+	width: 5px;
+	height: 52.704px;
+	left: 54.21px;
+	top: 15.058px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 340px;
+	height: 57px;
+	left: 47px;
+	top: 165px;
+}
+.Rachel_Glasgow_Class {
+	position: absolute;
+	left: -37px;
+	top: 185px;
+	overflow: visible;
+	width: 502px;
+	height: 61px;
+	line-height: 120px;
+	margin-top: -44px;
+	text-align: center;
+	font-family: Monarch;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(255,253,253,1);
+	letter-spacing: 1.15px;
+}
+.Education___Experience_Class {
+	position: absolute;
+	left: 381px;
+	top: 186px;
+	overflow: visible;
+	width: 562px;
+	height: 56px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___2.html;
+	cursor: pointer;
+	line-height: 120px;
+	margin-top: -44px;
+	text-align: center;
+	font-family: Monarch;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(255,253,253,1);
+	letter-spacing: 1.15px;
+}
+.Projects_Class {
+	position: absolute;
+	left: 887px;
+	top: 185px;
+	overflow: visible;
+	width: 304px;
+	height: 122px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___3.html;
+	cursor: pointer;
+	line-height: 120px;
+	margin-top: -44px;
+	text-align: center;
+	font-family: Monarch;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(255,253,253,1);
+	letter-spacing: 1.15px;
+}
+.Contact_Class {
+	position: absolute;
+	left: 1080px;
+	top: 185px;
+	overflow: visible;
+	width: 347px;
+	height: 57px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___4.html;
+	cursor: pointer;
+	line-height: 120px;
+	margin-top: -44px;
+	text-align: center;
+	font-family: Monarch;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(255,253,253,1);
+	letter-spacing: 1.15px;
+}
+.Polygon_2 {
+	overflow: hidden;
+	position: absolute;
+	width: 1444px;
+	height: 550px;
+	transform: matrix(1,0,0,1,-0.0001,310.0001) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 771px;
+	height: 462px;
+	left: 476px;
+	top: 352px;
+}
+.Rachel_Glasgow_is_an_Internati_Class {
+	position: absolute;
+	left: 495.685px;
+	top: 371.412px;
+	overflow: visible;
+	width: 726.053px;
+	height: 781.714px;
+	line-height: 50px;
+	margin-top: -15px;
+	text-align: center;
+	font-family: Lao Sangam MN;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(3,3,3,1);
+	letter-spacing: 0.8px;
+}
+.C475E897_D2A6_42E1_8695_BCD222_Class {
+	position: absolute;
+	width: 317px;
+	height: 564px;
+	left: 102px;
+	top: 278px;
+	overflow: visible;
+}

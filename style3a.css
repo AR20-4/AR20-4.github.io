@@ -1,0 +1,309 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 3a;
+	--web-view-id: Web_1920___3a;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-navigate-on-keypress: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920___3a;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Web_1920___3a_Class {
+	position: absolute;
+	transform: translateX(-50%);
+	left: 50%;
+	width: 1440px;
+	height: 900px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 3a;
+	--web-view-id: Web_1920___3a;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-navigate-on-keypress: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.Polygon_2 {
+	overflow: hidden;
+	position: absolute;
+	width: 836px;
+	height: 1350px;
+	transform: matrix(1,0,0,1,333.5,-78.4999) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Polygon_1 {
+	overflow: hidden;
+	position: absolute;
+	width: 1446px;
+	height: 433px;
+	left: -2px;
+	top: -210px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_1 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 1463.589px;
+	height: 25px;
+	left: -1.237px;
+	top: 112.41px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Digital_Curriculum_Vitae_Class {
+	position: absolute;
+	left: 475.356px;
+	top: 38.249px;
+	overflow: visible;
+	width: 383px;
+	white-space: nowrap;
+	line-height: 90px;
+	margin-top: -30px;
+	text-align: center;
+	font-family: Lao Sangam MN;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(62,62,62,1);
+	letter-spacing: 1.15px;
+}
+.Group_1_Class {
+	position: absolute;
+	width: 54.21px;
+	height: 67.762px;
+	left: 922.585px;
+	top: 10.014px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___1.html;
+	cursor: pointer;
+}
+.Line_2 {
+	overflow: visible;
+	position: absolute;
+	width: 5px;
+	height: 52.704px;
+	left: 0px;
+	top: 15.058px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_3 {
+	overflow: visible;
+	position: absolute;
+	width: 5px;
+	height: 67.762px;
+	left: 27.105px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_4 {
+	overflow: visible;
+	position: absolute;
+	width: 5px;
+	height: 52.704px;
+	left: 54.21px;
+	top: 15.058px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 198px;
+	height: 57px;
+	left: 942px;
+	top: 166px;
+}
+.Rachel_Glasgow_Class {
+	position: absolute;
+	left: -37px;
+	top: 185px;
+	overflow: visible;
+	width: 502px;
+	height: 61px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___1.html;
+	cursor: pointer;
+	line-height: 120px;
+	margin-top: -44px;
+	text-align: center;
+	font-family: Monarch;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(255,253,253,1);
+	letter-spacing: 1.15px;
+}
+.Education___Experience_Class {
+	position: absolute;
+	left: 381px;
+	top: 186px;
+	overflow: visible;
+	width: 562px;
+	height: 56px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___2.html;
+	cursor: pointer;
+	line-height: 120px;
+	margin-top: -44px;
+	text-align: center;
+	font-family: Monarch;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(255,253,253,1);
+	letter-spacing: 1.15px;
+}
+.Projects_Class {
+	position: absolute;
+	left: 887px;
+	top: 185px;
+	overflow: visible;
+	width: 304px;
+	height: 122px;
+	line-height: 120px;
+	margin-top: -44px;
+	text-align: center;
+	font-family: Monarch;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(255,253,253,1);
+	letter-spacing: 1.15px;
+}
+.Contact_Class {
+	position: absolute;
+	left: 1080px;
+	top: 185px;
+	overflow: visible;
+	width: 347px;
+	height: 57px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___4.html;
+	cursor: pointer;
+	line-height: 120px;
+	margin-top: -44px;
+	text-align: center;
+	font-family: Monarch;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(255,253,253,1);
+	letter-spacing: 1.15px;
+}
+.Polygon_4 {
+	overflow: hidden;
+	position: absolute;
+	width: 1446px;
+	height: 433px;
+	transform: matrix(1,0,0,1,0,450) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 965px;
+	height: 521px;
+	left: 120px;
+	top: 295px;
+}
+.Polygon_3 {
+	overflow: hidden;
+	position: absolute;
+	width: 337px;
+	height: 603px;
+	transform: matrix(1,0,0,1,1097,295) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Artboard_1_Class {
+	position: absolute;
+	width: 421px;
+	height: 436px;
+	left: 174px;
+	top: 338px;
+	overflow: visible;
+}
+.Artboard_2_Class {
+	position: absolute;
+	width: 395px;
+	height: 380px;
+	left: 622px;
+	top: 369px;
+	overflow: visible;
+}
+.Logo_Designs_Created_with_Adob_Class {
+	position: absolute;
+	left: 900.685px;
+	top: 317.412px;
+	overflow: visible;
+	width: 726.053px;
+	height: 147.714px;
+	line-height: 50px;
+	margin-top: -16px;
+	text-align: center;
+	font-family: Lao Sangam MN;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(3,3,3,1);
+	letter-spacing: 0.8px;
+}
+.Polygon_5 {
+	overflow: hidden;
+	position: absolute;
+	width: 90px;
+	height: 37px;
+	transform: matrix(1,0,0,1,97,546) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___3.html;
+	cursor: pointer;
+}
+.Polygon_6 {
+	overflow: hidden;
+	position: absolute;
+	width: 90px;
+	height: 37px;
+	transform: matrix(1,0,0,1,1017,546) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___3b.html;
+	cursor: pointer;
+}
